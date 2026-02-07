@@ -1,48 +1,54 @@
-📖 Descripción
+# 🚀 Curso API REST
 
-Este repositorio contiene los ejercicios, ejemplos y proyectos desarrollados durante el Curso de API REST, enfocado en el consumo y creación de servicios web utilizando JavaScript.
+Proyecto de prácticas para aprender a crear y consumir APIs REST
+utilizando tecnologías backend y frontend.
 
-🚀 Contenidos
+---
 
-Fundamentos de APIs REST
+## 📖 Descripción
 
-Métodos HTTP (GET, POST, PUT, DELETE)
+Este repositorio contiene ejercicios y proyectos enfocados en el desarrollo
+de APIs REST, incluyendo:
 
-Consumo de APIs con Fetch / Axios
+- Creación de endpoints
+- Manejo de peticiones HTTP
+- Conexión con bases de datos
+- Autenticación básica
+- Consumo desde frontend
 
-Manejo de errores
+Forma parte de mi proceso de aprendizaje como desarrollador web.
 
-Autenticación
+---
 
-Proyecto práctico
+## 🛠️ Tecnologías utilizadas
 
-🛠️ Tecnologías
+### Backend
+- 🌐 API REST
 
-JavaScript
+### Frontend
+- 📜 JavaScript
+- 🌐 HTML5 / CSS3
 
-Fetch / Axios
+### Herramientas
+- 🧩 Git / GitHub
+- ⚙️ VS Code
 
-Node.js (opcional)
+---
 
-Postman
+## 📂 Contenido del proyecto
 
-📂 Estructura
-/api-rest
- ├── ejemplos/
- ├── proyectos/
- └── README.md
+- 📁 Endpoints CRUD
+- 📁 Rutas protegidas
+- 📁 Ejercicios prácticos
+- 📁 Pruebas de API
+- 📁 Ejemplos de consumo
 
-▶️ Uso
+---
 
-Clona el repositorio:
+## ▶️ Cómo ejecutar el proyecto
 
-git clone https://github.com/tu-usuario/curso-api-rest.git
+### 1️⃣ Clonar repositorio
 
-
-Abre el proyecto en tu editor.
-
-Ejecuta los ejemplos según las instrucciones.
-
-👨‍💻 Autor
-
-Desarrollado por: Ismael Bedmar
+```bash
+git clone https://github.com/Ismabc05/curso-api-rest.git
+cd curso-api-rest
